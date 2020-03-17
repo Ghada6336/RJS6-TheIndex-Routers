@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
 
-// Components
 import BookTable from "./BookTable";
 import Loading from "./Loading";
 

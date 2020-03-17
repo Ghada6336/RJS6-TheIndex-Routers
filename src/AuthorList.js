@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-
-// Components
 import AuthorCard from "./AuthorCard";
 import SearchBar from "./SearchBar";
 
